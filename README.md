@@ -1,10 +1,10 @@
 # WRO RoboSports Example
-The Example program and robot for WRO RoboSport. For more info of WRO RoboSports category, click [here](https://wro-association.org/competition/categories/) to check out.
+The Example program and robot for WRO RoboSports. For more info about WRO RoboSports category, click [here](https://wro-association.org/competition/categories/) to check out.
 
 Example Video: [YouTube - WRO RoboSports Double Tennis Test with Pixy 2 Camera](https://www.youtube.com/watch?v=vEyGXVtalxY)
 
 ## Program
-![image](https://user-images.githubusercontent.com/17724013/221401440-cd2fab95-13bd-4de0-bf15-ff85545a19ed.png)
+![image](https://user-images.githubusercontent.com/17724013/221402544-2f000c46-7bf3-49df-9fad-eaa257b3881d.png)
 
 The sample program is written with EV3-G (EV3-Lab) software, with [OFDL ToolBox v4 Block](https://github.com/a10036gt/EV3-ToolBox-Block) and [Pixy2 Lite Block](https://github.com/ofdl-robotics-tw/EV3-Pixy2_Lite-Block).
 
@@ -13,11 +13,11 @@ The sample program is written with EV3-G (EV3-Lab) software, with [OFDL ToolBox 
 The program is like an event-driven finite state machine, image above is the tree visualization of the project gernate by [EV3 Tree Visualizer](https://ev3treevis.azurewebsites.net/).
 
 ## Robot Design
-![image](https://github.com/ofdl-robotics-tw/WRO-RoboSport-Example/blob/main/RoboSport_Example_Robot.png?raw=true)
+![image](https://github.com/ofdl-robotics-tw/WRO-RoboSport-Example/blob/main/RoboSports_Example_Robot.png?raw=true)
 The robot uses EV3 as controller, drivetrain use two medium motor with 1.2x gear ratio, and 62.4 tires.
 
 ## DISCLAIMER
-The sharing of this program and robot constructure is for educational purposes only, for beginners can get started with RoboSport category, the project should not be used directly for WRO competitions.
+The sharing of this program and robot constructure is for educational purposes only, for beginners can get started with RoboSports category, the project should not be used directly for WRO competitions.
 
 ## Authors and Contributors
 - BIBO9265 for the robot design.
