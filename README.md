@@ -6,7 +6,7 @@ Example Video: [YouTube - WRO RoboSports Double Tennis Test with Pixy 2 Camera](
 ## Program
 ![image](https://user-images.githubusercontent.com/17724013/221402544-2f000c46-7bf3-49df-9fad-eaa257b3881d.png)
 
-The sample program is written with EV3-G (EV3-Lab) software, with [OFDL ToolBox v4 Block](https://github.com/a10036gt/EV3-ToolBox-Block) and [Pixy2 Lite Block](https://github.com/ofdl-robotics-tw/EV3-Pixy2_Lite-Block).
+The sample program is written with EV3-G (EV3-Lab) software, with [OFDL Advanced Motor Controller Block](https://github.com/a10036gt/EV3-AdvMotorControllers-Block), [OFDL Useful ToolBox v4 Block](https://github.com/a10036gt/EV3-ToolBox-Block) and [Pixy2 Lite Block](https://github.com/ofdl-robotics-tw/EV3-Pixy2_Lite-Block).
 
 ![image](https://user-images.githubusercontent.com/17724013/221401301-4eaf9314-12b1-486b-988b-211e04ce2cdb.png)
 
